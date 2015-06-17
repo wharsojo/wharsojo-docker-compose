@@ -1,3 +1,3 @@
 # docker-compose
-Docker Compose for docker registry autobuild
+A Python "docker-compose" command
  
