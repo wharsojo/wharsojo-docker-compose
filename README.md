@@ -1,1 +1,3 @@
-# wharsojo-docker-compose
+# docker-compose
+Docker Compose for docker registry autobuild
+ 
