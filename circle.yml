@@ -7,4 +7,4 @@ dependencies:
 test:
   override:
     - docker run -it --entrypoint=/bin/sh wharsojo/docker-compose; sleep 30
-    - docker-compose | grep "docker-compose version"
+    - docker-compose | grep docker-compose
